@@ -159,16 +159,9 @@ Cada bloque utiliza:
 
 # 🖼️ Imágenes del diseño
 
-Agregar aquí las imágenes del proyecto:
-
-```md
-![Esquemático](imagenes/esquematico.png)
-
-![PCB](imagenes/pcb.png)
-
-![Vista 3D](imagenes/vista-3d.png)
-
-![PCB Fabricada](imagenes/pcb-fabricada.png)
 
 ---
 # 🧾 Licencias
+
+---
+# 📜 Certificación OSHW
