@@ -157,8 +157,6 @@ Cada bloque utiliza:
 
 ---
 
----
-
 # 🖼️ Imágenes del diseño
 
 Agregar aquí las imágenes del proyecto:
@@ -171,3 +169,6 @@ Agregar aquí las imágenes del proyecto:
 ![Vista 3D](imagenes/vista-3d.png)
 
 ![PCB Fabricada](imagenes/pcb-fabricada.png)
+
+---
+# 🧾 Licencias
