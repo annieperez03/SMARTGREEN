@@ -1,12 +1,9 @@
-# 🌱 SmartGreen  
+# 🌱 SmartGreen 🦋  
 ## Sistema de monitoreo ambiental y de sustrato con tecnología LoRa
 
 **SmartGreen** es un sistema IoT diseñado para el monitoreo de variables ambientales y del sustrato en aplicaciones agrícolas, invernaderos o espacios donde se necesite supervisar el entorno de crecimiento de las plantas.
 
 El proyecto integra sensores de temperatura, humedad, presión atmosférica, calidad del aire, intensidad lumínica, humedad del suelo y temperatura de precisión. Además, incluye un sistema de control para microbombas de agua mediante un driver de motores, permitiendo funciones de riego automatizado o controlado.
-
-**Descripción corta:**  
-Sistema IoT agrícola con LoRa para monitoreo ambiental, humedad del suelo, luz y control de riego con energía solar.
 
 ---
 
@@ -158,35 +155,7 @@ Cada bloque utiliza:
 | LED de CHRG | Indica que la batería se está cargando |
 | LED de STDBY | Indica que la batería ya está cargada |
 
-En el TP4056:
-
-| Pin | Función |
-|---|---|
-| CHRG# | Cargando |
-| STDBY# | Carga completa |
-
 ---
-
-# 🦋 Diseño de PCB
-
-El diseño de PCB fue realizado en **EasyEDA**.  
-La placa tiene una forma personalizada inspirada en una mariposa, manteniendo una distribución por bloques para facilitar la identificación de cada sistema.
-
-## Bloques principales del PCB
-
-| Bloque | Descripción |
-|---|---|
-| BastWAN | Control principal y comunicación LoRa |
-| BME680 | Sensor ambiental embebido |
-| TB6612FNG | Control de microbombas |
-| DS18B20 | Sensor externo por bornera |
-| FC-28 | Módulo de humedad de suelo |
-| OLED | Pantalla I2C |
-| BH1750 | Sensor de luz |
-| Carga BastWAN | Sistema de carga para lógica |
-| Carga motores | Sistema de carga para bombas |
-| Panel solar | Entrada de alimentación solar |
-| Baterías | Alimentación mediante celdas 18650 |
 
 ---
 
