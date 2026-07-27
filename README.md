@@ -159,10 +159,30 @@ Cada bloque utiliza:
 ---
 
 # 🦋 Imágenes del diseño
+## Vista 2D del PCB
 
+### Vista superior 2D
+
+![Vista superior 2D del PCB](imagenes/TOPview2D.png)
+
+### Vista inferior 2D
+
+![Vista inferior 2D del PCB](imagenes/BOTTOMview2D.png)
+
+---
+
+## Vista 3D del PCB
+
+### Vista superior 3D
+
+![Vista superior 3D del PCB](imagenes/TOPview3D.png)
+
+### Vista inferior 3D
+
+![Vista inferior 3D del PCB](imagenes/BOTTOMview3D.png)
 
 ---
 # 🧾 Licencias
 
 ---
-# 📜 Certificación OSHW
+# 🛡️ Certificación OSHW
