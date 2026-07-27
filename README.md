@@ -169,10 +169,10 @@ Las siguientes imágenes muestran el diseño final del PCB de **SmartGreen**, in
   </tr>
   <tr>
     <td align="center">
-      <img src="imagenes/TOPview2D.png" width="400">
+      <img src="images/TOPview2D.png" width="400">
     </td>
     <td align="center">
-      <img src="imagenes/BOTTOMview2D.png" width="400">
+      <img src="images/BOTTOMview2D.png" width="400">
     </td>
   </tr>
 </table>
@@ -184,25 +184,13 @@ Las siguientes imágenes muestran el diseño final del PCB de **SmartGreen**, in
   </tr>
   <tr>
     <td align="center">
-      <img src="imagenes/TOPview3D.png" width="400">
+      <img src="images/TOPview3D.png" width="400">
     </td>
     <td align="center">
-      <img src="imagenes/BOTTOMview3D.png" width="400">
+      <img src="images/BOTTOMview3D.png" width="400">
     </td>
   </tr>
 </table>
-
----
-
-## Vista 3D del PCB
-
-### Vista superior 3D
-
-![Vista superior 3D del PCB](imagenes/TOPview3D.png)
-
-### Vista inferior 3D
-
-![Vista inferior 3D del PCB](imagenes/BOTTOMview3D.png)
 
 ---
 # 🧾 Licencias
