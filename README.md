@@ -160,12 +160,10 @@ Cada bloque utiliza:
 
 # 🦋 Diseño de PCB
 
-Las siguientes imágenes muestran el diseño final del PCB de **SmartGreen**, incluyendo las vistas superiores e inferiores en 2D y 3D generadas desde EasyEDA.
-
 <table>
   <tr>
-    <th>Vista superior 2D</th>
-    <th>Vista inferior 2D</th>
+    <th>TOP view 2D</th>
+    <th>BOTTOM view 2D</th>
   </tr>
   <tr>
     <td align="center">
@@ -179,8 +177,8 @@ Las siguientes imágenes muestran el diseño final del PCB de **SmartGreen**, in
 
 <table>
   <tr>
-    <th>Vista superior 3D</th>
-    <th>Vista inferior 3D</th>
+    <th>TOP viewr 3D</th>
+    <th>BOTTOM view 3D</th>
   </tr>
   <tr>
     <td align="center">
