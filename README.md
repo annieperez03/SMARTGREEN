@@ -1,9 +1,10 @@
-# 🌱 SmartGreen 🦋  
+# 🌱 SmartGreen 
 ## Sistema de monitoreo ambiental y de sustrato con tecnología LoRa
 
 **SmartGreen** es un sistema IoT diseñado para el monitoreo de variables ambientales y del sustrato en aplicaciones agrícolas, invernaderos o espacios donde se necesite supervisar el entorno de crecimiento de las plantas.
 
-El proyecto integra sensores de temperatura, humedad, presión atmosférica, calidad del aire, intensidad lumínica, humedad del suelo y temperatura de precisión. Además, incluye un sistema de control para microbombas de agua mediante un driver de motores, permitiendo funciones de riego automatizado o controlado.
+Es una solución de monitoreo inteligente diseñada para la digitalización de datos. El proyecto consiste en el despliegue de una red de nodos sensores
+autónomos que utilizan la tecnología de largo alcance LoRa para supervisar, en tiempo real, las variables críticas que afectan el rendimiento del cultivo.Con la integración sensores de temperatura, humedad, presión atmosférica, calidad del aire, intensidad lumínica, humedad del suelo y temperatura de precisión. Además, incluye un sistema de control para microbombas de agua mediante un driver de motores, permitiendo funciones de riego automatizado o controlado.
 
 ---
 
@@ -157,7 +158,7 @@ Cada bloque utiliza:
 
 ---
 
-# 🖼️ Imágenes del diseño
+# 🦋 Imágenes del diseño
 
 
 ---
