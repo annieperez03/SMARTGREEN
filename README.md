@@ -193,5 +193,10 @@ Cada bloque utiliza:
 ---
 # 🧾 Licencias
 
+Este proyecto utiliza licencias de código abierto independientes para software y hardware:
+
+* **Hardware:** [CERN-OHL-P-2.0](https://cern-ohl.web.cern.ch/) 
+* **Software / Firmware:** [MIT License](LICENSE-MIT)
+
 ---
 # 🛡️ Certificación OSHW
